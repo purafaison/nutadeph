@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jiechetee.khoa-le.com/sitemap.xml
